@@ -9,7 +9,7 @@
 |---|---|---|---|---|
 | Khadim | NIASS | Chef de Produit (PM) | @khadimniass | niassssn@gmail.com |
 | Alousseynou dit Makha | DIAW | Master Prompt Engineer | @alousseynoumakha | alousseynoumakha@gmail.com |
-| Mouhamadou Moustapha | KA | Dev UI | @moustphaka | moustphakha@gmail.com |
+| Mouhamadou Moustapha | KA | Dev UI | @moustphaka | kaahmadi101@gmail.com |
 | Kombo | GAUTHIER | Responsable Impact | @gauthierkombo | gauthierkombo@gmail.com |
 
 ---
