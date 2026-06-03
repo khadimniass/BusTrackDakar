@@ -28,10 +28,10 @@
 
 - [x] Fiche équipe soumise sur e-Academy
 - [x] Énoncé HMW validé
-- [ ] Carte d'empathie — à déposer sur e-Academy avant **20h45**
-- [ ] Dépôt GitHub `GET409-BusTrackDakar` — README.md + tous les membres en collaborateurs
-- [ ] Compte Dify activé — espace de travail équipe créé sur [dify.ai](https://dify.ai)
-- [ ] Commit GitHub avant **minuit**
+- [x] Carte d'empathie — à déposer sur e-Academy avant **20h45**
+- [x] Dépôt GitHub `GET409-BusTrackDakar` — README.md + tous les membres en collaborateurs
+- [x] Compte Dify activé — espace de travail équipe créé sur [dify.ai](https://dify.ai)
+- [x] Commit GitHub avant **minuit**
 
 ---
 
