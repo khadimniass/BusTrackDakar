@@ -102,6 +102,7 @@ Critères : ni trop vague, ni trop précis,
 ne propose pas encore de solution.
 ```
 
+
 ---
 
 ### Prompt 4 — Carte d'empathie
