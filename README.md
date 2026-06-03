@@ -1,43 +1,43 @@
 # 🚌 BusTrackDakar
-> GET 409 · Atelier IA · Master · Swiss UMEF University — Campus de Dakar · 2025-2026
+
+> **GET 409 · Atelier IA · Master · Swiss UMEF University — Campus de Dakar · 2025-2026**
 
 ---
 
-## 👥 Notre équipe
+## Le problème
 
-| Prénom | Nom | Rôle | GitHub Username | E-mail GitHub |
-|---|---|---|---|---|
-| Khadim | NIASS | Chef de Produit (PM) | @khadimniass | niassssn@gmail.com |
-| Alousseynou dit Makha | DIAW | Master Prompt Engineer | @alousseynoumakha | alousseynoumakha@gmail.com |
-| Mouhamadou Moustapha | KA | Dev UI | @moustphaka | kaahmadi101@gmail.com |
-| Kombo | GAUTHIER | Responsable Impact | @gauthierkombo | gauthierkombo@gmail.com |
+Les usagers des bus DDD (Dakar Dem Dikk) attendent en moyenne **25 à 40 minutes** sans aucune information sur la position ou l'heure d'arrivée de leur bus. Faute de visibilité, ils subissent leur trajet — et perdent tout pouvoir de décision.
 
----
+## Notre réponse
 
-## 🎯 Notre défi
-
-**Secteur :** Mobilité urbaine — Transport en commun (Dakar)
-
-### Problématique
-
-> Comment pourrions-nous permettre aux usagers des bus DDD de Dakar de connaître en temps réel la position et l'heure d'arrivée de leur bus, afin de réduire les attentes imprévisibles et reprendre le contrôle de leurs trajets ?
+> **Comment pourrions-nous** permettre aux usagers des bus DDD de Dakar de connaître en temps réel la position et l'heure d'arrivée de leur bus, afin de réduire les attentes imprévisibles et reprendre le contrôle de leurs trajets ?
 
 ---
 
-## ✅ Livrables S1
+## L'équipe
 
-- [x] Fiche équipe soumise sur e-Academy
-- [x] Énoncé HMW validé
-- [x] Carte d'empathie — à déposer sur e-Academy avant **20h45**
-- [x] Dépôt GitHub `GET409-BusTrackDakar` — README.md + tous les membres en collaborateurs
-- [x] Compte Dify activé — espace de travail équipe créé sur [dify.ai](https://dify.ai)
-- [x] Commit GitHub avant **minuit**
+| Prénom | Nom | Rôle | GitHub |
+|---|---|---|---|
+| Khadim | NIASS | Chef de Produit (PM) | [@khadimniass](https://github.com/khadimniass) |
+| Alousseynou dit Makha | DIAW | Master Prompt Engineer | [@alousseynoumakha](https://github.com/alousseynoumakha) |
+| Mouhamadou Moustapha | KA | Dev UI (No-Code) | [@moustphaka](https://github.com/moustphaka) |
+| Kombo | GAUTHIER | Responsable Impact | [@gauthierkombo](https://github.com/gauthierkombo) |
 
 ---
 
-## 🤖 Prompts S1
+## Documentation
 
-### Prompt 1 — Découverte du problème
+| Document | Description |
+|---|---|
+| [📋 Fiche équipe](docs/fiche-equipe.md) | Identité, membres, rôles, infrastructure S1 |
+| [🗺️ Carte d'empathie](docs/carte-empathie.md) | Persona Moussa — pains, gains, insights |
+
+---
+
+## Prompts S1
+
+<details>
+<summary>Prompt 1 — Découverte du problème</summary>
 
 ```
 Tu es un expert en mobilité urbaine et transport en commun à Dakar, Sénégal.
@@ -53,9 +53,10 @@ Pour chaque problème :
   compatible feature phones ou bas débit)
 ```
 
----
+</details>
 
-### Prompt 2 — Guide d'interview
+<details>
+<summary>Prompt 2 — Guide d'interview</summary>
 
 ```
 Tu es un UX Researcher spécialisé dans les usages numériques en Afrique de l'Ouest.
@@ -76,9 +77,10 @@ Génère un guide d'interview avec :
 Format : questions numérotées, courtes, sans jargon.
 ```
 
----
+</details>
 
-### Prompt 3 — Générateur HMW
+<details>
+<summary>Prompt 3 — Générateur HMW</summary>
 
 ```
 Tu es un facilitateur en Design Thinking.
@@ -102,10 +104,10 @@ Critères : ni trop vague, ni trop précis,
 ne propose pas encore de solution.
 ```
 
+</details>
 
----
-
-### Prompt 4 — Carte d'empathie
+<details>
+<summary>Prompt 4 — Carte d'empathie</summary>
 
 ```
 # ROLE
@@ -136,5 +138,8 @@ d'innovation sociale en Afrique.
 ### 6. ASPIRATIONS (Gains)   - [Résultat désiré]
 ```
 
+</details>
+
 ---
-*M. Malick Faye Diagne — Enseignant responsable · GET 409 · Swiss UMEF University Dakar*
+
+*Enseignant responsable : M. Malick Faye Diagne — GET 409 · Swiss UMEF University Dakar*
