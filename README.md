@@ -31,7 +31,14 @@ Les usagers des bus DDD (Dakar Dem Dikk) attendent en moyenne **25 à 40 minutes
 |---|---|
 | [📋 Fiche équipe](docs/fiche-equipe.md) | Identité, membres, rôles, infrastructure S1 |
 | [🗺️ Carte d'empathie](docs/carte-empathie.md) | Persona Moussa — pains, gains, insights |
-
+| [🎩 6 Chapeaux de Bono](docs/chapeaux-bono.md) | Analyse S2 — faits, risques, idées, synthèse |
+| [🚫 Contraintes MVP](docs/contraintes-mvp.md) | Critères non négociables — ce qu'on construit et ce qu'on élimine |
+| [🔬 Hypothèses de validation](docs/hypotheses-validation.md) | Hypothèses CRITIQUES / IMPORTANTES / SECONDAIRES — plan S3 |
+| [📊 Métriques de succès](docs/metriques-succes.md) | Métrique Nord, progression, alertes — tableau de bord S6 |
+| [🎯 Value Proposition Canvas](docs/vpc.md) | Jobs, pains, gains — FIT Check complet |
+| [🔗 Traçabilité VPC](docs/vpc-connections.md) | Connexions 6 Chapeaux → VPC — cohérence validée |
+| [📦 Backlog S3](docs/backlog-s3.md) | User stories MUST / SHOULD / COULD — sprint S3 |
+| [❓ HMW Définitif](docs/hmw-definitif.md) | HMW validé S2 — version retenue pour le prototypage |
 ---
 
 ## Prompts S1
